@@ -6,7 +6,7 @@ Here are some of the tasks you need to perform:
 
 - Aggregate data into one excel sheet
 - Standardizing header names
-- Deleting and rearranging columns – delete the column customer as it is only a unique identifier for each row of data
+- Deleting and rearranging columns – Keep "Customer" column as the first column in the file and as it is only a unique identifier for each row of data
 - Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of complaints )
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
