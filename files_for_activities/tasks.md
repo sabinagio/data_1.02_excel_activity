@@ -2,7 +2,7 @@
 
 Here are some of the tasks you need to perform:
 
-### 1.02 Activity 1
+### 1.02 Activity 2
 
 - Aggregate data into one excel sheet
 - Standardizing header names
@@ -13,7 +13,7 @@ Here are some of the tasks you need to perform:
 - Conditional Formatting
 - Replacing null values – Replace missing values with means of the column (for numerical columns)
 
-### 1.02 Activity 2
+### 1.02 Activity 3
 
 - Bucketing the data - Write a function to replace column "State" to different zones. California as West Region, Oregon as North West, and Washington as East, and Arizona and Nevada as Central
 - Standardizing the data – Use string functions to standardize the text data (lower case)
